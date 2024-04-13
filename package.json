@@ -1,7 +1,4 @@
 {
-  "engines":{
-    "node": "20.11.9"
-  },
   "name": "major_project",
   "version": "1.0.0",
   "description": "",
