@@ -3,7 +3,7 @@
     "node": "20.11.9"
   },
   "name": "major_project",
-  "version": "20.11.9",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
